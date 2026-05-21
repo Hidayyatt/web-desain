@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quizzy Punya Muhammad Zaki Nur Hidayat</title>
+
+</head>
+
+<body>
+
+    <!-- SEMANTIC: Bagian kepala website -->
+    <header>
+        <h1>Portal Kemahasiswaan - Kampus Digital</h1>
+        <p>Pendaftaran Unit Kegiatan Mahasiswa (UKM) Periode 2026</p>
+    </header>
+
+    <!-- SEMANTIC: Bagian menu navigasi -->
+    <nav>
+        <a href="#">Beranda</a> | 
+        <a href="#">Daftar UMKM</a> |
+        <a href="https://www.kemendikdasmen.go.id/" target="_blank">Kemdikbud</a> 
+    
+    </nav>
+
+    <!-- SEMANTIC: Pembungkus konten utama (Otomatis di tengah karena CSS 'margin: auto') -->
+    <main>
+
+        <!-- SECTION 1: Elemen HTML Dasar & Contoh Float -->
+        <section>
+            <h2>Kembangkan Potensimu</h2>
+            
+            <!-- Gambar ini akan melayang di kanan karena class 'foto-kampus' menggunakan float: right -->
+            <img src="https://upload.wikimedia.org/wikipedia/id/d/d0/Logo_LP3I.png" class="foto-kampus" width="250px" height="250px" alt="Logo Latihan" >
+            
+            <p>
+                Kuliah bukan hanya tentang belajar di dalam kelas. Mari
+                asah soft skill, kepemimpinan, dan jaringan pertemananmu
+                dengan bergabung ke dalam Unit Kegiatan Mahasiswa
+                (UKM) yang ada di kampus.
+            </p>
+            
+            <p>Atur Pendaftaran Online:</p>
+            <ul>
+                <li>1. Periksa Jadwal Kegiatan Rutin 
+                    UKM pada Tabel di bawah </li>
+                <li>2. Isi formulir pendaftarn dengan 
+                    data diri yang valid</li>
+                <li>3. Pilih satu UKM utama yang ingin Kamu ikuti</li>
+                <li>Klik tombol kirim dan tunggu konfirmasi melalui email</li>
+            </ul>
+        </section>
+
+        <!-- SECTION 2: Tabel Jadwal -->
+        <section>
+            <h2>Jadwal Kegiatan Rutin UKM Minggu Ini</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width: 100%; text-align: left;">
+                <thead>
+                    <tr style="background-color: #f1f5f9;">
+                        <th>Hari</th>
+                        <th>Nama UKM</th>
+                        <th>Jam</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Jumat</td>
+                        <td>UKM Web Design</td>
+                        <td>14:00 - 16:00</td>
+                    </tr>
+                    <tr>
+                        <td>Sabtu</td>
+                        <td>UKM Futsal</td>
+                        <td>09:00 - 11:00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- SECTION 3: Form Menggunakan Kerangka Table -->
+        <section>
+            <h2>Formulir Pengajuan Anggota Baru </h2>
+            <form action="#">
+                <!-- border="0" digunakan agar tabel tidak terlihat garisnya, murni untuk merapikan posisi input -->
+                <table border="0" cellpadding="6" style="width: 100%;">
+                    <tr>
+                        <!-- Atribut 'for' pada label harus SAMA dengan 'id' pada input -->
+                        <td style="width: 30%;"><label for="nama_mhs">Nama Lengkap</label></td>
+                        <td>:</td>
+                        <td><input type="text" id="nama_mhs" name="nama_mhs" required placeholder="Ketik nama di sini..."></td>
+                    </tr>
+                    <tr>
+                        <td><label for="tgl_gabung">Tanggal Gabung</label></td>
+                        <td>:</td>
+                        <td><input type="date" id="tgl_gabung" name="tgl_gabung" required></td>
+                    </tr>
+                    <tr>
+                        <td><label for="pilihan_ukm">Pilih Organisasi</label></td>
+                        <td>:</td>
+                        <td>
+                            <select id="pilihan_ukm" name="pilihan_ukm" required>
+                                <option value="">-- Silakan Pilih --</option>
+                                <option value="web">Web Design Club</option>
+                                <option value="futsal">Futsal Club</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label>Pilihan Anggota</label></td>
+                        <td>:</td>
+                        <td>
+                            <!-- name pada kedua radio harus SAMA ('status') agar hanya bisa dipilih salah satu -->
+                            <input type="radio" id="aktif" name="status" value="aktif" checked>
+                            <label for="aktif">Aktif</label>
+                            
+                            <input type="radio" id="alumni" name="status" value="alumni">
+                            <label for="alumni">Alumni</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <br>
+                            <!-- Arahkan mouse ke tombol ini di browser untuk melihat efek :hover -->
+                            <button type="submit">Simpan Data Pendaftaran</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </section>
+
+    </main>
+
+    <!-- SEMANTIC: Bagian bawah kaki website -->
+    <footer>
+        <p style="text-align: center; color: #64748b; font-size: 12px;">
+            &copy; 2026 Bahan Belajar Mandiri Mahasiswa - Dibuat untuk Kelas Web Dasar.
+        </p>
+    </footer>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15884.256161695224!2d95.31006984842296!3d5.55752636771839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304037487311c00b%3A0xec885f5b12bbd6e9!2sLP3I%20COLLEGE%20BANDA%20ACEH!5e0!3m2!1sid!2sid!4v1779354167920!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</body>
+</html>
