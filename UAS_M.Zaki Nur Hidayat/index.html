@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sewa Alat Pancing</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+<body>
+
+<header>
+
+    <h2>🎣 Fishing Rent</h2>
+
+    <nav>
+        <a href="#">Beranda</a>
+        <a href="#produk">Produk</a>
+        <a href="#transaksi">Transaksi</a>
+    </nav>
+
+</header>
+
+<section class="hero">
+
+        <div class="hero-text">
+
+            <h1>Sewa Alat Pancing Mudah & Murah</h1>
+
+        <p>
+            Nikmati pengalaman memancing dengan peralatan terbaik tanpa harus membeli.
+        </p>
+
+        <a href="#produk" class="btn">
+            Lihat Paket
+        </a>
+
+        </div>
+
+</section>
+
+<section class="produk" id="produk">
+
+            <h2>Paket Sewa</h2>
+
+            <div class="card-container">
+
+            <div class="card">
+
+            <h3>Basic</h3>
+
+            <p>Joran + Reel</p>
+
+            <h1>Rp50.000</h1>
+
+            <button onclick="pilihPaket('Basic',50000)">
+            Pilih
+            </button>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Gold</h3>
+
+            <p>Joran + Reel + Umpan</p>
+
+            <h1>Rp100.000</h1>
+
+            <button onclick="pilihPaket('Gold',100000)">
+                Pilih
+            </button>
+
+        </div>
+
+    <div class="card">
+
+    <h3>Platinum</h3>
+
+    <p>Full Set Premium</p>
+
+    <h1>Rp150.000</h1>
+
+    <button onclick="pilihPaket('Platinum',150000)">
+        Pilih
+    </button>
+
+    </div>
+
+    </div>
+
+        </section>
+
+        <section class="transaksi" id="transaksi">
+
+        <h2>Form Transaksi</h2>
+
+    <form id="formBayar">
+
+    <input
+        type="text"
+        placeholder="Nama Penyewa"
+        required>
+
+    <input
+        type="text"
+        id="paket"
+        readonly
+        placeholder="Pilih Paket">
+
+    <input
+        type="text"
+        id="harga"
+        readonly
+        placeholder="Harga">
+
+    <select required>
+
+    <option>Pilih Pembayaran</option>
+
+    <option>Transfer Bank</option>
+
+    <option>QRIS</option>
+
+    <option>DANA</option>
+
+    <option>OVO</option>
+
+    <option>GoPay</option>
+
+    </select>
+
+    <button type="submit">
+        Bayar Sekarang
+    </button>
+
+    </form>
+
+    </section>
+
+    <div class="popup" id="popup">
+
+        <div class="popup-box">
+
+    <h2>✅ Transaksi Berhasil</h2>
+
+        <p>Terima kasih telah menyewa.</p>
+
+        <button onclick="tutupPopup()">
+            Tutup
+        </button>
+
+        </div>
+
+        </div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
