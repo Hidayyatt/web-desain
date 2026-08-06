@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaksi | Sewa Alat Pancing</title>
+
+    <link rel="stylesheet" href="transaksi.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+
+        <h2>🎣 Sewa Alat Pancing</h2>
+
+        <nav>
+            <a href="index.html">Beranda</a>
+            <a href="produk.html">Produk</a>
+            <a href="transaksi.html" class="aktif">Transaksi</a>
+            <a href="kontak.html">Kontak</a>
+        </nav>
+
+    </header>
+
+    <section class="container">
+
+        <div class="form-box">
+
+            <h1>Form Penyewaan</h1>
+
+            <form>
+
+                <label>Nama Penyewa</label>
+                <input type="text" id="nama" placeholder="Masukkan nama">
+
+                <label>No HP</label>
+                <input type="text" id="hp" placeholder="08xxxxxxxxxx">
+
+                <label>Produk</label>
+                <input type="text" id="produk" readonly>
+
+                <label>Harga / Hari</label>
+                <input type="text" id="harga" readonly>
+
+                <label>Lama Sewa (Hari)</label>
+                <input type="number" id="hari" min="1" value="1">
+
+                <label>Tanggal Sewa</label>
+                <input type="date" id="tgl">
+
+                <button type="button" onclick="hitungTotal()">
+                    Hitung Total
+                </button>
+
+            </form>
+
+        </div>
+
+        <div class="struk">
+
+            <h2>Struk Penyewaan</h2>
+
+            <div id="hasil">
+
+                Belum ada transaksi.
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

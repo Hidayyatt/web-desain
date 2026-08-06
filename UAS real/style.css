@@ -1,0 +1,330 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#eef8ff;
+}
+
+/* ================= NAVBAR ================= */
+
+header{
+    background:#0077b6;
+    color:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:18px 8%;
+    position:sticky;
+    top:0;
+    z-index:999;
+}
+
+.logo{
+
+    font-size:28px;
+    font-weight:bold;
+
+}
+
+nav ul{
+
+    display:flex;
+    list-style:none;
+    gap:30px;
+
+}
+
+nav ul li a{
+
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+    transition:.3s;
+
+}
+
+nav ul li a:hover,
+.active{
+
+    color:#ffd60a;
+
+}
+
+/* ================= HERO ================= */
+
+.hero{
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+padding:80px 8%;
+
+}
+
+.hero-text{
+
+width:50%;
+
+}
+
+.hero-text h1{
+
+font-size:50px;
+color:#023e8a;
+margin-bottom:20px;
+
+}
+
+.hero-text p{
+
+font-size:18px;
+line-height:32px;
+margin-bottom:30px;
+
+}
+
+.btn{
+
+display:inline-block;
+
+background:#0096c7;
+color:white;
+
+padding:15px 35px;
+
+border-radius:40px;
+
+text-decoration:none;
+
+transition:.4s;
+
+font-weight:bold;
+
+}
+
+.btn:hover{
+
+background:#023e8a;
+
+}
+
+.hero-image{
+
+width:45%;
+
+}
+
+.hero-image img{
+
+width:100%;
+
+}
+
+/* ================= KATEGORI ================= */
+
+.kategori{
+
+padding:80px 8%;
+text-align:center;
+
+}
+
+.kategori h2{
+
+font-size:38px;
+margin-bottom:50px;
+color:#023e8a;
+
+}
+
+.kategori-container{
+
+display:grid;
+
+grid-template-columns:repeat(4,1fr);
+
+gap:30px;
+
+}
+
+.card{
+
+background:white;
+
+padding:35px;
+
+border-radius:20px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.1);
+
+transition:.4s;
+
+}
+
+.card:hover{
+
+transform:translateY(-10px);
+
+}
+
+.card i{
+
+font-size:55px;
+
+color:#00b4d8;
+
+margin-bottom:20px;
+
+}
+
+/* ================= KEUNGGULAN ================= */
+
+.keunggulan{
+
+background:#caf0f8;
+
+padding:80px 8%;
+
+text-align:center;
+
+}
+
+.keunggulan h2{
+
+margin-bottom:50px;
+font-size:38px;
+
+}
+
+.unggulan{
+
+display:flex;
+gap:30px;
+
+}
+
+.unggulan div{
+
+background:white;
+
+padding:30px;
+
+border-radius:20px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+
+}
+
+.unggulan i{
+
+font-size:45px;
+
+color:#0096c7;
+
+margin-bottom:15px;
+
+}
+
+/* ================= TESTIMONI ================= */
+
+.testimoni{
+
+padding:80px 8%;
+
+text-align:center;
+
+}
+
+.testi-container{
+
+display:flex;
+
+gap:30px;
+
+}
+
+.testi{
+
+background:white;
+
+padding:30px;
+
+border-radius:20px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.1);
+
+}
+
+/* ================= FOOTER ================= */
+
+footer{
+
+margin-top:60px;
+
+background:#023e8a;
+
+color:white;
+
+text-align:center;
+
+padding:25px;
+
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media(max-width:900px){
+
+.hero{
+
+flex-direction:column;
+
+}
+
+.hero-text{
+
+width:100%;
+text-align:center;
+
+}
+
+.hero-image{
+
+width:90%;
+margin-top:40px;
+
+}
+
+.kategori-container{
+
+grid-template-columns:repeat(2,1fr);
+
+}
+
+.unggulan{
+
+flex-direction:column;
+
+}
+
+.testi-container{
+
+flex-direction:column;
+
+}
+
+header{
+
+flex-direction:column;
+gap:20px;
+
+}
+
+}
