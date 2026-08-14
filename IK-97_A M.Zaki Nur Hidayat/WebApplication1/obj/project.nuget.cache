@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "64Lw4NGpGyc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afifa\\Downloads\\bleck 2\\arif apii\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afifa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-preview.2.26159.112\\microsoft.aspnetcore.openapi.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\afifa\\.nuget\\packages\\microsoft.openapi\\3.3.1\\microsoft.openapi.3.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 3.3.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\afifa\\Downloads\\bleck 2\\arif apii\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\afifa\\Downloads\\bleck 2\\arif apii\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net11.0"
+      ]
+    }
+  ]
+}

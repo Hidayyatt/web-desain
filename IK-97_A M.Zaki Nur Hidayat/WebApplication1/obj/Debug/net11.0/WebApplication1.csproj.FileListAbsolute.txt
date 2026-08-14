@@ -1,0 +1,104 @@
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\appsettings.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.exe
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.deps.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.runtimeconfig.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.dll
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\WebApplication1.pdb
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\bin\Debug\net11.0\Microsoft.OpenApi.dll
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfo.cs
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebAppli.7D14BD69.Up2Date
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.dll
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\refint\WebApplication1.dll
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.pdb
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\WebApplication1.genruntimeconfig.cache
+C:\Users\PC-LAB1-23\Documents\rabil\WebApplication1\obj\Debug\net11.0\ref\WebApplication1.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\appsettings.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.exe
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.deps.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.runtimeconfig.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.pdb
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\bin\Debug\net11.0\Microsoft.OpenApi.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfo.cs
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebAppli.7D14BD69.Up2Date
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\refint\WebApplication1.dll
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.pdb
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.genruntimeconfig.cache
+C:\Users\PC LAB1-01\Videos\arif apii\WebApplication1\obj\Debug\net11.0\ref\WebApplication1.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\appsettings.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.exe
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.deps.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.runtimeconfig.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\WebApplication1.pdb
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\bin\Debug\net11.0\Microsoft.OpenApi.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.AssemblyInfo.cs
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebAppli.7D14BD69.Up2Date
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\refint\WebApplication1.dll
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.pdb
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\WebApplication1.genruntimeconfig.cache
+C:\Users\afifa\Downloads\bleck 2\arif apii\WebApplication1\obj\Debug\net11.0\ref\WebApplication1.dll
